@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878415825487",
+    "project_id": "quizzingoapp",
+    "storage_bucket": "quizzingoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878415825487:android:b5792f7a33d93f7969383a",
+        "android_client_info": {
+          "package_name": "com.example.quizzingoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zopuXu-BeXtbG5Fxuo1xSilnFsg6lc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

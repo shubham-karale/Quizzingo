@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizzingoApp</string>
+    <string name="scoreTextString">Congratulations! Your Score is</string>
+</resources>
