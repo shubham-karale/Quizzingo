@@ -22,7 +22,10 @@ https://coolors.co/
 https://www.uicolorpicker.learncodeonline.in/ 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x![Front](https://github.com/shubham-karale/Quizzingo/assets/58147626/889aea6f-a8a2-45b6-a557-62b28e9018b2)
-300?text=App+Screenshot+Here)
-![Quiz](https://github.com/shubham-karale/Quizzingo/assets/58147626/520e1340-ce1e-4bbd-852c-03c66895a7d5)
-![score](https://github.com/shubham-karale/Quizzingo/assets/58147626/bae6419e-45f4-4190-8b86-d51a58a0a646)
+![Front](https://github.com/shubham-karale/Quizzingo/assets/58147626/8890cb75-5e33-49d7-88c7-e7f59c90d4cf)
+![Quiz](https://github.com/shubham-karale/Quizzingo/assets/58147626/7ee0c73d-18b4-430f-a971-4b193a7830c7)
+![score](https://github.com/shubham-karale/Quizzingo/assets/58147626/afbff08d-3aed-4fab-9747-bcb2efcf5f40)
+
+
+
+
